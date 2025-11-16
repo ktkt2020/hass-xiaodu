@@ -1,16 +1,19 @@
 {
   "domain": "xiaodu",
-  "name": "XiaoDu API",
+  "name": "xiaodu",
   "config_flow": true,
-  "documentation": "https://github.com/apgmer/hass-xiaodu",
+  "documentation": "https://github.com/ktkt2020/hass-xiaodu",
   "requirements": [],
   "ssdp": [],
   "zeroconf": [],
   "homekit": {},
   "dependencies": [],
   "codeowners": [
-    "@apgmer"
+    "@apgmer",
+    "@ktkt2020"
   ],
+  "issue_tracker": "https://github.com/ktkt2020/hass-xiaodu/issues",
+  "integration_type": "hub",
   "iot_class": "cloud_polling",
   "version": "0.1.0"
 }
